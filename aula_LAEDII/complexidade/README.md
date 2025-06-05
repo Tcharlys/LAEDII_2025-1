@@ -18,10 +18,7 @@ Este repositório contém a implementação, análise de desempenho e otimizaç�
 - `tempv2.c` — Versão recursiva com memoização.
 - `tempinterativo.c` — Versão iterativa eliminando recursão.
 - `tempfechado.c` — Versão com fórmula fechada.
-- `graficos/` — Imagens PNG com os gráficos de desempenho.
-  - `grafico_otimizado_1.png`
-  - `grafico_otimizado_2.png`
-  - `grafico_otimizado_3.png`
+
 
 ## Compilação e Execução
 
@@ -45,13 +42,13 @@ Os gráficos comparam o desempenho entre o algoritmo original e suas versões ot
 - **Otimizado 3 (fórmula fechada):** tempo constante
 
 ### Gráfico - Original vs Otimizado 1
-![Gráfico Otimizado 1](./graficos/grafico01.png)
+![grafico01](https://github.com/user-attachments/assets/6b7a8dd0-4282-4b9e-8bb5-caf27f37ce6a)
 
 ### Gráfico - Original vs Otimizado 2
-![Gráfico Otimizado 2](./graficos/grafico02.png)
+![grafico02](https://github.com/user-attachments/assets/05068ab1-bfb8-439b-b05d-2d9af6ba9e2f)
 
 ### Gráfico - Original vs Otimizado 3
-![Gráfico Otimizado 3](./graficos/grafico03.png)
+![grafico03](https://github.com/user-attachments/assets/f2b2354e-9c71-4939-a1ed-bbdb1a50e9d9)
 
 ## Requisitos
 
