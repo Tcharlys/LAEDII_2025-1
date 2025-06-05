@@ -1,3 +1,4 @@
+
 # Análise de Complexidade - Algoritmos Recursivos (Fibonacci)
 
 Este repositório contém a implementação, análise de desempenho e otimizações da função recursiva de Fibonacci, com foco em estudo de complexidade de algoritmos.
@@ -42,6 +43,15 @@ Os gráficos comparam o desempenho entre o algoritmo original e suas versões ot
 - **Otimizado 1 (memoização):** tempo linear
 - **Otimizado 2 (iterativo):** tempo linear com menor sobrecarga
 - **Otimizado 3 (fórmula fechada):** tempo constante
+
+### Gráfico - Original vs Otimizado 1
+![Gráfico Otimizado 1](./graficos/grafico01.png)
+
+### Gráfico - Original vs Otimizado 2
+![Gráfico Otimizado 2](./graficos/grafico02.png)
+
+### Gráfico - Original vs Otimizado 3
+![Gráfico Otimizado 3](./graficos/grafico03.png)
 
 ## Requisitos
 
